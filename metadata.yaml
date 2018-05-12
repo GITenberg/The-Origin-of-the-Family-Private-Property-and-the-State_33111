@@ -21,6 +21,8 @@ creator:
 description: Introduction, by Eleanor Burke Leacock.--The Origin of the family, private
   property and the state, by Frederick Engels.--The part played by labor in the transition
   from ape to man, by Frederick Engels.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33111#The-Origin-of-the-Family-Private-Property-and-the-State
 gutenberg_issued: '2010-07-08'
 gutenberg_type: Text
 identifiers:
