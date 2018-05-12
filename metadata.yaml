@@ -1,0 +1,40 @@
+_repo: The-Origin-of-the-Family-Private-Property-and-the-State_33111
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Untermann, Ernest
+    alias: Unterman, Ernest
+    gutenberg_agent_id: '36215'
+    url: http://www.gutenberg.org/2009/agents/36215
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Engels, Friedrich
+    alias: Engels, Frederick
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '47'
+    url: http://www.gutenberg.org/2009/agents/47
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Engels
+description: Introduction, by Eleanor Burke Leacock.--The Origin of the family, private
+  property and the state, by Frederick Engels.--The part played by labor in the transition
+  from ape to man, by Frederick Engels.
+gutenberg_issued: '2010-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- History'
+- !lcsh 'State, The'
+- !lcsh 'Property -- History'
+- !lcc 'HQ'
+- !lcsh 'Morgan, Lewis Henry, 1818-1881. Ancient society'
+- !lcsh 'Primitive societies'
+title: The Origin of the Family, Private Property and the State
+url: http://www.gutenberg.org/ebooks/33111
